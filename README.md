@@ -34,3 +34,7 @@ Example:
 20	Guest Rooms	192.168.20.0/24
 
 30	Admin	192.168.30.0/24
+
+Open the .pkt file in Cisco Packet Tracer.
+
+Explore the device configurations (CLI on each router/switch).
